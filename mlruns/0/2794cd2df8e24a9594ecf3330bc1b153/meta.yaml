@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/venkatsubash2003/Desktop/MLFlow/Experiment/mlruns/0/2794cd2df8e24a9594ecf3330bc1b153/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2794cd2df8e24a9594ecf3330bc1b153
+run_name: magnificent-mare-638
+run_uuid: 2794cd2df8e24a9594ecf3330bc1b153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744411647734
+status: 1
+tags: []
+user_id: venkatsubash2003

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/venkatsubash2003/Desktop/MLFlow/Experiment/mlruns/0/fd20bab104784af689450f15284e947f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd20bab104784af689450f15284e947f
+run_name: invincible-dove-932
+run_uuid: fd20bab104784af689450f15284e947f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744411426395
+status: 1
+tags: []
+user_id: venkatsubash2003
